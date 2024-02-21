@@ -1,5 +1,10 @@
 # Changelog
 
+## \[2.0.0-alpha.0]
+
+- [`51ba4c5`](https://github.com/tauri-apps/plugins-workspace/commit/51ba4c533036bb6016163bccee2c2514d1dbfaa1)([#962](https://github.com/tauri-apps/plugins-workspace/pull/962)) Make `rename` function third paramter optional as it was supposed to be.
+- [`531123c`](https://github.com/tauri-apps/plugins-workspace/commit/531123cad0a381eb3e1b9cd98b2901ed4b6aa35f)([#947](https://github.com/tauri-apps/plugins-workspace/pull/947)) Fix incorrect `WatchEventKindModify` type for `rename` events.
+
 ## \[2.0.0-beta.0]
 
 - [`d198c01`](https://github.com/tauri-apps/plugins-workspace/commit/d198c014863ee260cb0de88a14b7fc4356ef7474)([#862](https://github.com/tauri-apps/plugins-workspace/pull/862)) Update to tauri beta.
@@ -50,4 +55,4 @@
 ## \[2.0.0-alpha.0]
 
 - [`717ae67`](https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
-ae67`](https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
+  ae67\`]\(https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!

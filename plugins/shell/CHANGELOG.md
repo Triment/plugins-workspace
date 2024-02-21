@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-alpha.0]
+
+- [`e856adc`](https://github.com/tauri-apps/plugins-workspace/commit/e856adc72c0be782df025da57cd84dbc5cacb179)([#939](https://github.com/tauri-apps/plugins-workspace/pull/939)) Export `open` module.
+
 ## \[2.0.0-beta.0]
 
 - [`d198c01`](https://github.com/tauri-apps/plugins-workspace/commit/d198c014863ee260cb0de88a14b7fc4356ef7474)([#862](https://github.com/tauri-apps/plugins-workspace/pull/862)) Update to tauri beta.
@@ -39,7 +43,7 @@
 
 - [`717ae67`](https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   .com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
-ins-workspace/pull/555)) Update to alpha.11.
+  ins-workspace/pull/555)) Update to alpha.11.
 
 ## \[2.0.0-alpha.0]
 
